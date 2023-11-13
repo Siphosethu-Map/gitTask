@@ -1,3 +1,3 @@
-git = "Git is awesome!"
+age = input("how old are you?: ")
 
-print(git)
+print(age)
