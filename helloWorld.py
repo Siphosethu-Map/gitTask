@@ -1,3 +1,3 @@
-name = input("What's your name?: ")
+country = input("Which country are you from?: ")
 
-print(name)
+print(country)
